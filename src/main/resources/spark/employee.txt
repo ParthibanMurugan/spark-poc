@@ -1,0 +1,7 @@
+name,salary,sex,age
+alok,100000,male,29
+jatin,105000,male,32
+yogesh,134000,male,39
+ragini,112000,female,35
+jyotsana,129000,female,39
+valmiki,123000,male,29
